@@ -1,7 +1,7 @@
 # Ensalamento-de-alunos
-List
+Inst:Unibrasil
 Turma: 2ESBN
-Disciplina: Pratica e Desenvolvimento Profissional
+Disciplina: Prática e Desenvolvimento Profissional
 Ano: 2026
 Profs: Frank Coelho
 Aluno: Pedro Alexandre Zanetti
